@@ -1,0 +1,1 @@
+print("Jogos Zerados")
